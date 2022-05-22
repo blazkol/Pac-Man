@@ -10,3 +10,4 @@ This is one of my first projects. The purpose of its creation was to learn objec
 # Screenshots
 ![menu](https://user-images.githubusercontent.com/105949530/169694840-87b321b4-8de5-47d6-8fe6-9d20e5bc8f06.png)
 ![game](https://user-images.githubusercontent.com/105949530/169694845-1edf4930-caa8-4845-96c9-dd7343a80a6a.png)
+![game2](https://user-images.githubusercontent.com/105949530/169714022-3b997efe-6504-4925-a9cc-57a90361b38a.png)
