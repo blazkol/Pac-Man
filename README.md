@@ -1,5 +1,5 @@
 # Pac-Man
-Simple Pac-Man game created in C ++ using SFML library
+A Pac-Man clone created in C ++ using SFML library
 
 # Overwiew
 This is one of my first projects. The purpose of its creation was to learn object-oriented programming in C++ and the use of external libraries. I used the SFML library because it is easy to learn and it is great for the purpose of creating a simple two-dimensional game.
